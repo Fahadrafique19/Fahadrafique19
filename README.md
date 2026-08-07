@@ -63,27 +63,27 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22"/> Technical Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
 </p>
 
 <br/>
@@ -188,30 +188,17 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/> Animated GitHub Analytics
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/> GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Fahadrafique19">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=09090e" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true&title_color=00C2FF&text_color=ffffff&bg_color=09090e" width="48%" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Fahadrafique19">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadrafique19&theme=tokyo-night&hide_border=true&background=09090E&ring=00C2FF&fire=0055E6&currStreakLabel=00C2FF" width="48%" alt="Streak Stats" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Fahadrafique19&theme=tokyo-night&column=3&margin-w=15&margin-h=15&no-bg=true" width="48%" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Fahadrafique19">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Contribution Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---

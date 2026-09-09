@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Fahad Rafique</h1>
+<h3 align="center">Software Engineer | React Native Developer</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0055E6,100:09090e&height=230&section=header&text=Hi,%20I'm%20Fahad%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
+  <i>Building Production-Grade iOS & Android Apps | Specialized in FinTech & Offline-First Architectures</i>
 </p>
 
 <p align="center">
@@ -11,12 +13,6 @@
   </a>
   <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
     <img src="https://img.shields.io/badge/Experience-Production_Grade_Engineer-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Experience" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fahadrafique19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+React+Native+Developer;Building+Production-Grade+iOS+%26+Android+Apps;Specialized+in+FinTech+%26+Offline-First+Architectures;Pixel-Perfect+Figma+to+Code+Conversions;Native+Builds%2C+SQLite%2C+Firebase+%26+REST+APIs" alt="Typing Text" />
   </a>
 </p>
 
@@ -130,8 +126,4 @@
   <a href="https://wa.me/923073068514">
     <img src="https://img.shields.io/badge/WhatsApp-+92_307_3068514-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055E6,100:00C2FF&height=100&section=footer&text=Designed%20and%20Engineered%20by%20Fahad&fontSize=18&fontColor=ffffff" width="100%" alt="Footer Banner" />
 </p>

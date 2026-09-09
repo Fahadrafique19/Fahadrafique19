@@ -121,14 +121,14 @@
 ## 📈 Analytics & Activity
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
-  <br/>
+<br/>
 
-  ![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff)
-  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---

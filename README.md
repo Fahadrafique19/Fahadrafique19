@@ -1,36 +1,28 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0055E6,100:09090e&height=230&section=header&text=Hi,%20I'm%20Fahad%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
+</p>
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0055E6,100:09090e&height=230&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Fahad%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
+<p align="center">
+  <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
+    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00C2FF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
+  </a>
+  <a href="https://maps.google.com/?q=Hyderabad,Pakistan">
+    <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20Pakistan-0055E6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </a>
+  <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
+    <img src="https://img.shields.io/badge/Experience-Production_Grade_Engineer-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Experience" />
+  </a>
+</p>
 
-  <br/>
+<p align="center">
+  <a href="https://github.com/Fahadrafique19">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+React+Native+Developer;Building+Production-Grade+iOS+%26+Android+Apps;Specialized+in+FinTech+%26+Offline-First+Architectures;Pixel-Perfect+Figma+to+Code+Conversions;Native+Builds%2C+SQLite%2C+Firebase+%26+REST+APIs" alt="Typing Text" />
+  </a>
+</p>
 
-  <!-- Status Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
-      <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00C2FF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
-    </a>
-    <a href="https://maps.google.com/?q=Hyderabad,Pakistan">
-      <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20Pakistan-0055E6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    </a>
-    <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
-      <img src="https://img.shields.io/badge/Experience-Production_Grade_Engineer-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Experience" />
-    </a>
-  </p>
-
-  <!-- Dynamic Typing Banner -->
-  <p align="center">
-    <a href="https://github.com/Fahadrafique19">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+React+Native+Developer;Building+Production-Grade+iOS+%26+Android+Apps;Specialized+in+FinTech+%26+Offline-First+Architectures;Pixel-Perfect+Figma+to+Code+Conversions;Native+Builds%2C+SQLite%2C+Firebase+%26+REST+APIs" alt="Typing Text" />
-    </a>
-  </p>
-
-  <!-- Visitor Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Fahadrafique19&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fahadrafique19&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -61,17 +53,9 @@
 
 ## 🛠 Technical Arsenal
 
-<div align="center">
-
-| Domain | Core Technologies & Tools |
-| :--- | :--- |
-| **Mobile Engineering** | <img src="https://skillicons.dev/icons?i=react" width="20" align="top"/> `React Native` • <img src="https://skillicons.dev/icons?i=android" width="20" align="top"/> `Android` • <img src="https://skillicons.dev/icons?i=apple" width="20" align="top"/> `iOS` • <img src="https://skillicons.dev/icons?i=redux" width="20" align="top"/> `Redux Toolkit` • `React Navigation` |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=sqlite" width="20" align="top"/> `SQLite` • <img src="https://skillicons.dev/icons?i=firebase" width="20" align="top"/> `Firebase` • `AsyncStorage` |
-| **Frontend Web** | <img src="https://skillicons.dev/icons?i=nextjs" width="20" align="top"/> `Next.js` • <img src="https://skillicons.dev/icons?i=react" width="20" align="top"/> `React.js` • <img src="https://skillicons.dev/icons?i=ts" width="20" align="top"/> `TypeScript` • <img src="https://skillicons.dev/icons?i=tailwind" width="20" align="top"/> `Tailwind CSS` |
-| **APIs & Integrations** | `REST APIs` • `Axios` • `FCM (Push Notifications)` • `Native Modules` |
-| **Tools & Workflows** | <img src="https://skillicons.dev/icons?i=git" width="20" align="top"/> `Git/GitHub` • <img src="https://skillicons.dev/icons?i=vscode" width="20" align="top"/> `VS Code` • <img src="https://skillicons.dev/icons?i=figma" width="20" align="top"/> `Figma` • <img src="https://skillicons.dev/icons?i=postman" width="20" align="top"/> `Postman` |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,android,apple,redux,sqlite,firebase,nextjs,ts,tailwind,git,vscode,figma,postman" />
+</p>
 
 ---
 
@@ -120,16 +104,14 @@
 
 ## 📈 Analytics & Activity
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Contribution Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -150,6 +132,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055E6,100:00C2FF&height=100&section=footer&text=Designed%20%26%20Engineered%20by%20Fahad%20Rafique%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff" width="100%" alt="Footer Banner" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055E6,100:00C2FF&height=100&section=footer&text=Designed%20and%20Engineered%20by%20Fahad&fontSize=18&fontColor=ffffff" width="100%" alt="Footer Banner" />
+</p>

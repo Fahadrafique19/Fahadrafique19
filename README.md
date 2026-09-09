@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0055E6,100:09090e&height=230&section=header&text=Hi%20👋,%20I'm%20Fahad%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0055E6,100:09090e&height=230&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Fahad%20Rafique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -34,21 +34,21 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"/> Professional Overview
+## 👨‍💻 Professional Overview
 
 <table width="100%" border="0">
   <tr>
     <td width="65%" valign="top">
       <h3>🚀 Engineering High-Performance Mobile Experiences</h3>
       <p>I am a <b>Software Engineer</b> specializing in <b>React Native</b>, currently building scalable FinTech and Enterprise applications at <b>Verge Systems (Pvt.) Ltd</b>. My core strength lies in designing robust offline-first architectures and delivering pixel-perfect UIs.</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="16"/> <b>Mobile:</b> React Native, iOS & Android Native Builds, Code Signing.</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="16"/> <b>Architecture:</b> Offline Storage (SQLite, AsyncStorage), Firebase, Redux.</p>
-      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="16"/> <b>Design:</b> Advanced Figma to Code conversion & Responsive Layouts.</p>
+      <p>📱 <b>Mobile:</b> React Native, iOS & Android Native Builds, Code Signing.</p>
+      <p>💾 <b>Architecture:</b> Offline Storage (SQLite, AsyncStorage), Firebase, Redux.</p>
+      <p>🎨 <b>Design:</b> Advanced Figma to Code conversion & Responsive Layouts.</p>
       <br/>
       <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="14"/> <b>Email:</b> <a href="mailto:fahadrafique636@gmail.com">fahadrafique636@gmail.com</a><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="14"/> <b>GitHub:</b> <a href="https://github.com/Fahadrafique19">@Fahadrafique19</a><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="14"/> <b>LinkedIn:</b> <a href="https://linkedin.com/in/fahad-rafique-5b9790338">fahad-rafique</a>
+        📧 <b>Email:</b> <a href="mailto:fahadrafique636@gmail.com">fahadrafique636@gmail.com</a><br/>
+        🐙 <b>GitHub:</b> <a href="https://github.com/Fahadrafique19">@Fahadrafique19</a><br/>
+        💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/fahad-rafique-5b9790338">fahad-rafique</a>
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -59,25 +59,25 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22"/> Technical Arsenal
+## 🛠 Technical Arsenal
 
 <div align="center">
 
 | Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Mobile Engineering** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> `React Native` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="16"/> `Android` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="16"/> `iOS` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="16"/> `Redux Toolkit` • `React Navigation` |
-| **Databases & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="16"/> `SQLite` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="16"/> `Firebase (Auth/Firestore)` • `AsyncStorage` |
-| **Frontend Web** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="16"/> `Next.js` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> `React.js` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> `TypeScript` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> `Tailwind CSS` |
+| **Mobile Engineering** | <img src="https://skillicons.dev/icons?i=react" width="20" align="top"/> `React Native` • <img src="https://skillicons.dev/icons?i=android" width="20" align="top"/> `Android` • <img src="https://skillicons.dev/icons?i=apple" width="20" align="top"/> `iOS` • <img src="https://skillicons.dev/icons?i=redux" width="20" align="top"/> `Redux Toolkit` • `React Navigation` |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=sqlite" width="20" align="top"/> `SQLite` • <img src="https://skillicons.dev/icons?i=firebase" width="20" align="top"/> `Firebase` • `AsyncStorage` |
+| **Frontend Web** | <img src="https://skillicons.dev/icons?i=nextjs" width="20" align="top"/> `Next.js` • <img src="https://skillicons.dev/icons?i=react" width="20" align="top"/> `React.js` • <img src="https://skillicons.dev/icons?i=ts" width="20" align="top"/> `TypeScript` • <img src="https://skillicons.dev/icons?i=tailwind" width="20" align="top"/> `Tailwind CSS` |
 | **APIs & Integrations** | `REST APIs` • `Axios` • `FCM (Push Notifications)` • `Native Modules` |
-| **Tools & Workflows** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16"/> `Git/GitHub/GitLab` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="16"/> `VS Code` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="16"/> `Figma` • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="16"/> `Postman` |
+| **Tools & Workflows** | <img src="https://skillicons.dev/icons?i=git" width="20" align="top"/> `Git/GitHub` • <img src="https://skillicons.dev/icons?i=vscode" width="20" align="top"/> `VS Code` • <img src="https://skillicons.dev/icons?i=figma" width="20" align="top"/> `Figma` • <img src="https://skillicons.dev/icons?i=postman" width="20" align="top"/> `Postman` |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"/> Work Experience
+## 💼 Work Experience
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> **Software Engineer — React Native Developer**
+### ⚛️ **Software Engineer — React Native Developer**
 **Verge Systems (Pvt.) Ltd.** • *(Dec 2024 – Present)*
 
 * 📱 **Production Deliveries:** Built, maintained, and successfully deployed **3+ enterprise applications** across FinTech and HR domains on both iOS and Android.
@@ -87,7 +87,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/> Featured Projects
+## ⭐ Featured Projects
 
 ### 📱 Production Mobile Apps
 
@@ -102,13 +102,13 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="18"/> Inovasi19 — Web Platform</h3>
+      <h3>🌐 Inovasi19 — Web Platform</h3>
       <p><b>Stack:</b> <code>Next.js</code> • <code>SSR</code> • <code>Netlify</code></p>
       <p>🔗 <a href="https://inovasi19.netlify.app/"><b>Live Preview</b></a></p>
       <p>Engineered an SEO-optimized web application leveraging Server-Side Rendering (SSR) for optimal page load speeds.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> Peaceful Seahorse UI System</h3>
+      <h3>🌊 Peaceful Seahorse UI System</h3>
       <p><b>Stack:</b> <code>React.js</code> • <code>Context API</code></p>
       <p>🔗 <a href="https://peaceful-seahorse-4b8d2b.netlify.app/"><b>Live Preview</b></a></p>
       <p>Developed a modular, reusable component architecture with global state management.</p>
@@ -118,22 +118,22 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/> Analytics & Activity
+## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true)
 
-<br/>
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff" width="100%" alt="Contribution Activity Graph" />
+  ![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahadrafique19&theme=tokyo-night&hide_border=true&bg_color=09090e&color=00C2FF&line=0055E6&point=ffffff)
+  
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="22"/> Let's Connect!
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/fahad-rafique-5b9790338">
@@ -151,5 +151,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055E6,100:00C2FF&height=100&section=footer&text=Designed%20%26%20Engineered%20by%20Fahad%20Rafique%20🚀&fontSize=18&fontColor=ffffff" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055E6,100:00C2FF&height=100&section=footer&text=Designed%20%26%20Engineered%20by%20Fahad%20Rafique%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff" width="100%" alt="Footer Banner" />
 </div>

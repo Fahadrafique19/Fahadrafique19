@@ -40,11 +40,10 @@
         <li>📱 <b>Core:</b> React Native, iOS & Android Native Builds, Code Signing.</li>
         <li>💾 <b>Architecture:</b> Offline Storage (SQLite, AsyncStorage), Redux Toolkit.</li>
         <li>🔐 <b>Security:</b> Firebase Auth, Real-time FCM, Audit Compliance checks.</li>
-        <li>🎨 <b>UI/UX:</b> Pixel-Perfect Figma to Code conversions & Responsive Layouts.</li>
+        <li>🎨 <b>UI/UX:</b> Pixel-Perfect Figma to Code conversions.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Cool Developer Animation -->
       <img src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/9dfdb9fcd2e1a3d9021eb0c871f11ed7.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0, 194, 255, 0.3);" alt="Coding Animation" />
     </td>
   </tr>
@@ -79,16 +78,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- 📈 Fixed GitHub Analytics (Images will show now) -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> GitHub Analytics</h2>
+<!-- 📈 GitHub Analytics -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> GitHub Analytics</h2>
 
-<p align="center">
-  <!-- Removed count_private=true to fix the image breaking issue -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&title_color=00C2FF&icon_color=00C2FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true&title_color=00C2FF" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahadrafique19&show_icons=true&theme=tokyo-night&hide_border=true&title_color=00C2FF&icon_color=00C2FF" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadrafique19&layout=compact&theme=tokyo-night&hide_border=true&title_color=00C2FF" height="170" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <!-- Animated Profile Views Counter -->
+<br />
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fahadrafique19&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
